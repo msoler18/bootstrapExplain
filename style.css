@@ -2,3 +2,7 @@
   background-color: #e6e2eb;
   border:2px solid #a39cad;
 }
+
+.nested{
+  background: gray;
+}
